@@ -1,0 +1,114 @@
+[
+  {
+    "slug": "chrono-fold",
+    "title": "Chrono-Fold",
+    "subtitle": "A Presence Experiment in the Temporal Zone",
+    "category": "Interactive Installation",
+    "year": "2024",
+    "role": "Interaction Designer",
+    "cover": "assets/projects/chrono-fold-cover.jpg",
+    "hero": "assets/projects/chrono-fold-hero.jpg",
+
+    "video": {
+    "type": "local",
+    "src": "assets/videos/chrono-fold.mp4"
+    },
+
+    "intro": "The project explores the \"illusion of presence\" created by digital media. Mechanisms of delay, superimposition, and real-time feedback subvert linear time, positioning the audience between the present and the past image.\n\nTheory: The concept draws from Merleau-Ponty's \"intertwining of the gazer and the gazed,\" critiquing the fragmented and replayable nature of personal time under digital surveillance.",
+    "gallery": [
+      "assets/projects/chrono-fold-board.jpg"
+    ]
+  },
+  {
+    "slug": "asymmetric-symbiosis",
+    "title": "Asymmetric Symbiosis",
+    "subtitle": "What is the relationship between plants and humans in society?",
+    "category": "Interactive Installation",
+    "year": "2024",
+    "role": "Interaction Designer",
+    "cover": "assets/projects/asymmetric-symbiosis-cover.jpg",
+    "hero": "assets/projects/asymmetric-symbiosis-hero.jpg",
+
+    "video": {
+      "type": "local",
+      "src": "assets/videos/asymmetric-symbiosis.mp4"
+    },
+
+    "intro": "This is a contemplative installation exploring the relationship between plants and humans. Upon entering the space, visitors encounter vines suspended overhead. Some vines respond to proximity by gently curling upwards, as if the plants actively engage with touch, revealing a non-human agency. When the person departs, the vines slowly droop back into place. Beneath their feet, a projected lawn simulates natural grass, leaving irreversible trails with each step. These imprints metaphorically trace humanity's intervention in the environment, symbolising the costs of ecological niche construction.\n\nThe work invites reflection: within our enduring symbiosis with plants, are we the masters, or the ones being subtly guided? Who is taming whom? And who first learned to adapt?",
+    "gallery": ["assets/projects/asymmetric-symbiosis-board.jpg"]
+  },
+  {
+    "slug": "emove",
+    "title": "EMOVE",
+    "subtitle": "Emotional Relocation Service",
+    "category": "Service Design",
+    "year": "2023",
+    "role": "Service Designer",
+    "cover": "assets/projects/emove-cover.jpg",
+    "hero": "assets/projects/emove-hero.jpg",
+
+    "video": {
+      "type": "local",
+      "src": "assets/videos/emove.mp4"
+    },
+
+    "intro": "Problem: Moving breaks emotional bonds — scents, sounds, and light are lost. Current services only move objects, not feelings.\n\nService Solution: E-MOVE preserves and restores your home’s emotions through modular devices and concierge service — moving not just belongings, but feelings.",
+    "gallery": [
+      "assets/projects/emove-board.jpg"
+    ]
+  },
+  {
+    "slug": "mossy",
+    "title": "Mossy",
+    "subtitle": "Soft Technology for Solitude",
+    "category": "Experience Design",
+    "year": "2023",
+    "role": "Experience Designer",
+    "cover": "assets/projects/mossy-cover.jpg",
+    "hero": "assets/projects/mossy-hero.jpg",
+
+    "video": {
+      "type": "local",
+      "src": "assets/videos/mossy.mp4"
+    },
+
+    "intro": "Amid today's health technologies driven by data and alerts, the Mossy System redefines care through softness. Rather than a cold monitoring device, it is a living companion between nature and technology.\n\nInspired by moss—quiet, adaptive, and symbiotic—Mossy blends seamlessly into domestic spaces, gently sensing the dialogue between body and environment. It captures heart rate, temperature, and ambient patterns not to surveil, but to offer subtle, reassuring companionship for those living alone—bringing technology back to empathy and human warmth.",
+    "gallery": [
+      "assets/projects/mossy-board.jpg"
+    ]
+  },
+  {
+    "slug": "link",
+    "title": "Link",
+    "subtitle": "A dedicated platform designed for EDM enthusiasts",
+    "category": "UI/UX Design",
+    "year": "2023",
+    "role": "UI/UX Designer",
+    "cover": "assets/projects/link-cover.jpg",
+    "hero": "assets/projects/link-hero.jpg",
+    "intro": "This project was inspired by the gap between mainstream music platforms and the unique needs of EDM enthusiasts. While popular apps provide access to global hits, they often overlook underground tracks, remix culture, and the social energy that truly define electronic music communities. Many young listeners also feel isolated in their passion—unable to find like-minded peers or authentic party experiences.\n\nWe wanted to create a space where music, creation, and community converge, allowing EDM lovers to connect, co-create, and immerse themselves in a culture that goes beyond listening.",
+    "gallery": [
+      "assets/projects/link-board.jpg"
+    ]
+  },
+  {
+    "slug": "queengrid",
+    "title": "QueenGrid",
+    "subtitle": "Future Reproductive Services",
+    "category": "Speculative Future Service",
+    "year": "2022",
+    "role": "Research & Design",
+    "cover": "assets/projects/queengrid-cover.jpg",
+    "hero": "assets/projects/queengrid-hero.jpg",
+
+    "video": {
+      "type": "local",
+      "src": "assets/videos/queengrid.mp4"
+    },
+
+    "intro": "This project imagines a female-led future where reproductive rights belong entirely to women, and cities are coordinated through a decentralized system called QueenGrid, inspired by ant-colony organization.\n\nThe system embraces a dual-path power structure: women who reproduce are honoured as cultural contributors, while those who don’t become key social anchors through care work and institutional coordination.\n\nThe project invites reflection on how technological progress and evolving intimacy could reshape social structures—so that belonging and respect are no longer defined by reproduction or the nuclear family.",
+    "gallery": [
+     "assets/projects/queengrid-board.jpg"
+    ]
+  }
+]
